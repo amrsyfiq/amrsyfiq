@@ -1,5 +1,4 @@
 ### Hi, I'm Amir Syafiq 🙋‍♂
-<hr>
 
 <a href="https://www.linkedin.com/in/amrsyfiq/">
   <img align="left" alt="amrsyfiq's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
