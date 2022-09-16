@@ -28,7 +28,7 @@
 **About Me:**
 
 - 👨🏽‍💻 I’m currently a Software Engineer at [Mutiara i-Tech Sdn Bhd](http://www.mitsb.my/)
-- 💼 Graduate with Bachelor Degree of Computer Science (BSC).
+- 💼 Graduate with Bachelor Degree of Computer Science (BSC)
 - 🌱 Developing things for fun
 - 🤔 My interest lies in full-stack engineering
 - 💬 Learning a lot of latest tech
