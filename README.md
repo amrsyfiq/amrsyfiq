@@ -24,12 +24,12 @@
 
 **About Me:**
 
-- 👨🏽‍💻 I’m currently a Full-Stack developer at [Mutiara i-Tech Sdn Bhd](http://www.mitsb.my/).
-- 💼 Graduate of Bachelor Degree in Computer Science.
-- 🌱 Developing system for fun.
-- 🤔 My interest lies in full-stack engineering.
-- 💬 Learning a lot of latest tech!
-- 📫 Email me at amir.syafiq989@gmail.com.
+- 👨🏽‍💻 I’m currently a Software Engineer at [Mutiara i-Tech Sdn Bhd](http://www.mitsb.my/)
+- 💼 Graduate with Bachelor Degree of Computer Science (BSC).
+- 🌱 Developing things for fun
+- 🤔 My interest lies in full-stack engineering
+- 💬 Learning a lot of latest tech
+- 📫 Email me at amir.syafiq989@gmail.com
 
 #
 **Languages and Tools:**  
