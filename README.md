@@ -25,7 +25,7 @@
 **About Me:**
 
 - 👨🏽‍💻 I’m currently a Full-Stack developer at [Mutiara i-Tech Sdn Bhd](http://www.mitsb.my/).
-- 💼 Graduate of a Bachelor of Computer Science.
+- 💼 Graduate of Bachelor Degree in Computer Science.
 - 🌱 Developing system for fun.
 - 🤔 My interest lies in full-stack engineering.
 - 💬 Learning a lot of latest tech!
