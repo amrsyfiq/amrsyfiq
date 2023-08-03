@@ -27,7 +27,7 @@
 
 **About Me:**
 
-- 👨🏽‍💻 Full Stack Developer at [Mutiara i-Tech Sdn Bhd](http://www.mitsb.my/)
+- 👨🏽‍💻 Full Stack Developer at [FNXperts Sdn Bhd](https://www.xperts.my/)
 - 💼 Graduate with Bachelor Degree of Computer Science (BSC)
 - 🌱 Developing things for fun
 - 💬 Learning a lot of latest tech
