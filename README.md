@@ -31,6 +31,7 @@
 - 💼 Graduate with Bachelor Degree of Computer Science (BSC)
 - 🌱 Developing things for fun
 - 💬 Learning a lot of latest tech
+- 📺 Visit me at [amrsyfiq.dev](https://www.amrsyfiq.dev/)
 - 📫 Email me at amir.syafiq989@gmail.com
 
 #
