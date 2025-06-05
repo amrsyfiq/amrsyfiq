@@ -27,7 +27,7 @@
 
 **About Me:**
 
-- 👨🏽‍💻 Full Stack Developer at [XPERTS.MY](https://www.xperts.my/)
+- 👨🏽‍💻 Full Stack Developer at [Payboy](https://payboy.sg/)
 - 💼 Graduate with Bachelor Degree of Computer Science (BSC)
 - 🌱 Developing things for fun
 - 💬 Learning a lot of latest tech
