@@ -13,12 +13,6 @@
 <a href="https://gitlab.com/amrsyfiq">
   <img align="left" alt="amrsyfiq's GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
 </a>
-<a href="https://www.instagram.com/amrsyfiq/">
-  <img align="left" alt="amrsyfiq's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://twitter.com/amrsyfiq/">
-  <img align="left" alt="amrsyfiq's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <p align="right"> <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/amrsyfiq?color=236ad3&style=for-the-badge&logo=github&label=Follow"/> </p>
 
 #
